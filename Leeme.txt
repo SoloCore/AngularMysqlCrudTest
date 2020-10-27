@@ -1,6 +1,0 @@
-Para resolver problema de conexion: pool.getConnection is not a function: npm i promise-mysql@3.3.1
-
-para iniciar el servidor: npm run dev
-para iniciar el nodemon: tsc -w
-
-
